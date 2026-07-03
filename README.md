@@ -1,4 +1,5 @@
 
+
 Barbershop-Appointment-Tracker
 
 A web app for managing barbershop appointments, customers, and services.
@@ -8,4 +9,4 @@ A web app for managing barbershop appointments, customers, and services.
    - JOHN MIKE HERNAIZ– Board Lead
    - JAY ANN MARIQUIT  – Scribe
    - CHRISTINE JOY ILONEN  – Builder
-   - CHRISTINE JOY ILONEN  – Builder
+  
